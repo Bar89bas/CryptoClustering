@@ -27,6 +27,19 @@ Reproducing the reduce- dimensionality of data.
 
 ![image](https://github.com/Bar89bas/CryptoClustering/assets/122665451/51c31778-8efb-4ed5-b7f2-a86ae4138c28)
 
+Best Value for K Using the PCA data 
+![image](https://github.com/Bar89bas/CryptoClustering/assets/122665451/271dec8d-cfbc-4954-b82b-dbc99977ea43)
 
+Looking at the elbow curve we can say that the optimal value for “K” is 8 and it can be said that going this value won’t reduce the inertia. 
+
+Cluster Cryptocurrencies with K-means Using the PCA data
+![image](https://github.com/Bar89bas/CryptoClustering/assets/122665451/a6a0cdaa-9056-4eb2-aa49-4f72504fd48b)
+
+Visualize and compare the results of both (Original scaled data and PCA data)
+Elbow Curve:
+![image](https://github.com/Bar89bas/CryptoClustering/assets/122665451/e4153fd1-17f4-4bf8-8717-658c6db03934)
+
+Scatter Plot: 
+![image](https://github.com/Bar89bas/CryptoClustering/assets/122665451/673096b1-6a34-46f8-945d-8b26b52af30f)
 
 
